@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working as student <br>🤝 I’m looking for help with landing an internship <br>🌱 I’m currently learning python<br><br>
+[Code Pen](https://codepen.io/Divyesh-Shinde)
 
 
 # 💻 Tech Stack:
